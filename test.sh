@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type:application/json" http://localhost:9000/internshipdemo-26c22/us-central1/api/updateorder? -d '{"order_id":"1","product_id":2}' 
